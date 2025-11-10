@@ -9,7 +9,7 @@ This project focuses on the **Transformation, Loading, and Visualization** of ma
 This analysis was completed by:
 
 * **Tanweer Alam**
-* **Anajali Yadav**
+* **Anjali Yadav**
 
 We are students of **BBA - Business Analytics (IBM), 5th Semester, 3rd Year,** at **Integral University, Lucknow.**
 
