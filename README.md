@@ -11,7 +11,7 @@ This analysis was completed by:
 * **Tanweer Alam**
 * **Anajali Yadav**
 
-We are students of **BBA - International Business Management (IBM), 5th Semester, 3rd Year,** at **Integral University, Lucknow.**
+We are students of **BBA - Business Analytics (IBM), 5th Semester, 3rd Year,** at **Integral University, Lucknow.**
 
 ---
 
